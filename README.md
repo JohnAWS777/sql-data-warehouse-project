@@ -106,7 +106,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 Hi there! I'm **John**. I’m a Data professional on a mission to create business solutions!
 
-Let's stay in touch! This project was not possible without the support of Baraa. Look for his Youtube Channel as "Data with Baraa"
+Besides, this project was not possible without the support of Baraa. Look for his Youtube Channel as "Data with Baraa"
 
 # sql-data-warehouse-project
 Building a modern datawarehouse with SQL Server, including ETL processes, data modeling, and analytics.
