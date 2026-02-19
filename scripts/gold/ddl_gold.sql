@@ -63,7 +63,7 @@ ON pn.cat_id = pc.cid
 WHERE pn.prd_end_dt IS NULL --  filter out all historical data
 ;
 /* =========================================================
-	PRODUCT DIMENSION
+	SALES FACT
    =========================================================
 */
 GO
